@@ -23,7 +23,7 @@ function Work() {
                             Restaurant Review Website
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://innter-app.herokuapp.com/" target="_blank">
+                            <a href="https://jzlwzq.deta.dev/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href="https://github.com/sinharitwick/Innter" target="_blank">
@@ -41,7 +41,7 @@ function Work() {
                             Healthcare Website
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://swasth-lofi-devs.herokuapp.com/" target="_blank">
+                            <a href="http://swasth.deta.dev" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href="https://github.com/Bikdistinct/Lofi-Swasth" target="_blank">
