@@ -1,6 +1,6 @@
 import React from 'react'
 import Innter from '../assets/innter.png'
-import Swasth from '../assets/swasth.png'
+import Farmstack from '../assets/farmstack.png'
 
 function Work() {
   return (
@@ -32,19 +32,19 @@ function Work() {
                         </div>
                     </div>
                 </div>
-                <div style={{backgroundImage: `url(${Swasth})`}}
+                <div style={{backgroundImage: `url(${Farmstack})`}}
                 className='shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100 text-center'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Healthcare Website
+                            Agritech Website
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="http://swasth.deta.dev" target="_blank">
+                            <a href="https://farmstack-abhi78nath.vercel.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="https://github.com/Bikdistinct/Lofi-Swasth" target="_blank">
+                            <a href="https://github.com/sinharitwick/GFG-Lofi_Devs" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
